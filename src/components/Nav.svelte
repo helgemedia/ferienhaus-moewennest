@@ -2,7 +2,7 @@
   @import "/main.css";
 
   #nav {
-    margin: 0 30px 40px 30px;
+    margin: 0 30px 80px 30px;
   }
 
   li {
@@ -21,13 +21,17 @@
     white-space: nowrap;
   }
 
+  a:hover {
+    color: #7798a8;
+  }
+
   li:last-child {
     padding: 0;
   }
 
   @media screen and (min-width: 800px) {
     #nav {
-      margin: 0 20px 40px 20px;
+      margin: 0 30px 40px 30px;
     }
 
     a {

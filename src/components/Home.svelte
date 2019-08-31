@@ -1,6 +1,6 @@
 <style>
   #home {
-    margin: 0 20px;
+    margin: 0 20px 80px 20px;
 
     display: flex;
     flex-direction: row;
@@ -37,12 +37,16 @@
 
   @media screen and (min-width: 800px) {
     .intro-text {
+      box-sizing: border-box;
       margin: 0;
+      padding: 10px;
       width: 50%;
     }
 
     .intro-image {
+      box-sizing: border-box;
       margin: 0;
+      padding: 10px;
       width: 50%;
     }
 
