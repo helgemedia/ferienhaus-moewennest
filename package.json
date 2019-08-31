@@ -29,7 +29,7 @@
   "scripts": {
     "build": "rollup -c",
     "autobuild": "rollup -c -w",
-    "dev": "run-p start:dev autobuild",
+    "dev": "run-p start:dev autobuild && rm -rf public/bundle.css public/bundle.css.map public/bundle.js public/bundle.js.map && echo 'Files cleaned'",
     "start": "sirv public --single",
     "start:dev": "sirv public --single --dev",
     "deploy": "npm run build && surge public sad-railway.surge.sh"
