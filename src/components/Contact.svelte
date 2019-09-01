@@ -58,10 +58,18 @@
   }
 
   button:hover {
-    color: #c9ebfc;
+    color: #7798a8;
     border-radius: 50px;
-    border-color: #c9ebfc;
-    transition: all 0.3s ease 0s;
+    border-color: #7798a8;
+    transition: all 0.25s ease;
+  }
+
+  label {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 24px;
+    font-weight: 400;
+    word-spacing: 2px;
+    line-height: 36px;
   }
 
   @media screen and (min-width: 800px) {
@@ -89,15 +97,25 @@
     </p>
   </div>
   <div class="contact-form">
-    <form name="contact" method="POST" data-netlify="true">
+    <form name="contact" method="POST" netlify>
       <p>
-        <textarea name="message" placeholder="Ihre Nachricht..." />
+        <label>
+          Nachricht
+          <textarea name="message" placeholder="Schreiben Sie Ihre Nachricht" />
+        </label>
+
       </p>
       <p>
-        <input type="text" name="name" placeholder="Name" />
+        <label>
+          Name
+          <input type="text" name="name" placeholder="Ihr Name" />
+        </label>
       </p>
       <p>
-        <input type="email" name="email" placeholder="Email" />
+        <label>
+          Email
+          <input type="email" name="email" placeholder="Ihre Email" />
+        </label>
       </p>
       <p>
         <button type="submit">Anfragen</button>
