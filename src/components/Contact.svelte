@@ -27,7 +27,7 @@
 
   textarea,
   input {
-    width: 100%;
+    width: calc(100% - 24px);
     padding: 10px;
     border: solid #494949 3px;
     resize: none;
