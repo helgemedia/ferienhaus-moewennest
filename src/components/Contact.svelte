@@ -97,7 +97,8 @@
     </p>
   </div>
   <div class="contact-form">
-    <form name="contact" method="POST" netlify>
+    <form name="contact" method="POST">
+      <input type="hidden" name="form-name" value="contact" />
       <p>
         <label>
           Nachricht
