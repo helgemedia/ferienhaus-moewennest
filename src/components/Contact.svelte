@@ -102,7 +102,9 @@
       <p>
         <label>
           Nachricht
-          <textarea name="message" placeholder="Schreiben Sie Ihre Nachricht" />
+          <textarea
+            name="message"
+            placeholder="Schreiben Sie uns eine Nachricht" />
         </label>
 
       </p>
