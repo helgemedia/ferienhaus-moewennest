@@ -1,6 +1,6 @@
 <style>
   #home {
-    margin: 0 20px 80px 20px;
+    margin: 300px 20px 20px 20px;
 
     display: flex;
     flex-direction: row;
@@ -36,6 +36,9 @@
   }
 
   @media screen and (min-width: 800px) {
+    #home {
+      margin: 340px 20px 80px 20px;
+    }
     .intro-text {
       box-sizing: border-box;
       margin: 0;

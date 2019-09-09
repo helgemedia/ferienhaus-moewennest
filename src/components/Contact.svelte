@@ -1,6 +1,6 @@
 <style>
   #contact {
-    margin: 0 20px 80px 20px;
+    margin: 0 20px 40px 20px;
 
     display: flex;
     flex-direction: row;

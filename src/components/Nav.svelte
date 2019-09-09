@@ -1,8 +1,12 @@
+<script>
+  export let scrolled;
+</script>
+
 <style>
   @import "/main.css";
 
   #nav {
-    margin: 0 30px 80px 30px;
+    margin: 0 30px 20px 30px;
   }
 
   li {
@@ -29,30 +33,48 @@
     padding: 0;
   }
 
+  .scrolled-link {
+    font-size: 5vw;
+    line-height: 6vw;
+  }
+
   @media screen and (min-width: 800px) {
     #nav {
       margin: 0 30px 40px 30px;
     }
 
+    .scrolled {
+      margin: 0 30px 0 30px !important;
+    }
+
     a {
       font-size: 36px;
+      line-height: 40px;
+    }
+
+    .scrolled-link {
+      font-size: 26px;
     }
   }
 </style>
 
-<div id="nav">
+<div id="nav" class={scrolled ? 'scrolled' : ''}>
   <ul>
     <li>
-      <a href="#home">Home</a>
+      <a class={scrolled ? 'scrolled-link' : ''} href="#home">Home</a>
     </li>
     <li>
-      <a href="#amenities">Ausstattung</a>
+      <a class={scrolled ? 'scrolled-link' : ''} href="#amenities">
+        Ausstattung
+      </a>
     </li>
     <li>
-      <a href="#location">Lage</a>
+      <a class={scrolled ? 'scrolled-link' : ''} href="#location">Lage</a>
     </li>
     <li>
-      <a href="#contact">Kontakt & Buchung</a>
+      <a class={scrolled ? 'scrolled-link' : ''} href="#contact">
+        Kontakt & Buchung
+      </a>
     </li>
   </ul>
 </div>

@@ -12,7 +12,7 @@
 
 <style>
   #location {
-    margin: 0 20px 80px 20px;
+    margin: 0 20px 20px 20px;
 
     display: flex;
     flex-direction: row;
