@@ -51,6 +51,10 @@
     margin: 40px 0 20px 0;
   }
 
+  .waves {
+    display: none;
+  }
+
   @media screen and (min-width: 800px) {
     h1 {
       font-size: 80px;
@@ -59,6 +63,16 @@
     .scrolled {
       font-size: 50px;
     }
+
+    .waves {
+      display: block;
+      position: fixed;
+      top: 28%;
+      right: 50px;
+      z-index: -1;
+
+      width: 50%;
+    }
   }
 </style>
 
@@ -66,4 +80,7 @@
   <h1 class={scrolled ? 'scrolled' : ''}>Möwennest</h1>
 
   <Nav {scrolled} />
+
 </div>
+
+<img class="waves" src="/images/waves.svg" alt="waves" />
