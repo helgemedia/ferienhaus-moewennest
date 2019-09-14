@@ -1,6 +1,12 @@
 <script>
   import { onMount } from "svelte";
   import { tns } from "tiny-slider/src/tiny-slider";
+  import Icon from "fa-svelte";
+  import { faArrowLeft } from "@fortawesome/free-solid-svg-icons/faArrowLeft";
+  import { faArrowRight } from "@fortawesome/free-solid-svg-icons/faArrowRight";
+
+  let arrowLeft = faArrowLeft;
+  let arrowRight = faArrowRight;
 
   onMount(() => {
     const slider = tns({
@@ -25,10 +31,10 @@
     margin: 10px;
 
     font-family: "Times New Roman", Times, serif;
-    font-size: 24px;
+    font-size: 20px;
     font-weight: 400;
     word-spacing: 2px;
-    line-height: 36px;
+    line-height: 30px;
   }
 
   .slider-wrapper {
@@ -57,12 +63,11 @@
 
   li {
     padding-top: 20px;
-
-    font-size: 20px;
-    font-weight: 400;
-    color: #7798a8;
-
     cursor: pointer;
+  }
+
+  div :global(.arrow) {
+    font-size: 30px;
   }
 
   @media screen and (min-width: 800px) {
@@ -148,16 +153,15 @@
         data-controls="prev"
         aria-controls="customize"
         tabindex="-1">
-        Vorheriges Bild
+        <Icon class="arrow" icon={faArrowLeft} />
       </li>
       <li
         class="next"
         data-controls="next"
         aria-controls="customize"
         tabindex="-1">
-        Nächstes Bild
+        <Icon class="arrow" icon={faArrowRight} />
       </li>
     </ul>
   </div>
-
 </div>

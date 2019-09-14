@@ -1,6 +1,6 @@
 <style>
   #home {
-    margin: 300px 20px 20px 20px;
+    margin: 270px 20px 20px 20px;
 
     display: flex;
     flex-direction: row;
@@ -11,15 +11,15 @@
     margin: 10px;
 
     font-family: "Times New Roman", Times, serif;
-    font-size: 24px;
+    font-size: 20px;
     font-weight: 400;
     word-spacing: 2px;
-    line-height: 36px;
+    line-height: 30px;
   }
 
   h2 {
     margin: 0 0 40px 0;
-    font-size: 8vw;
+    font-size: 22px;
     font-weight: 100;
   }
 
@@ -37,7 +37,7 @@
 
   @media screen and (min-width: 800px) {
     #home {
-      margin: 340px 20px 80px 20px;
+      margin: 260px 20px 80px 20px;
     }
     .intro-text {
       box-sizing: border-box;
@@ -55,7 +55,6 @@
 
     h2 {
       margin: 0 0 40px 0;
-      font-size: 30px;
       font-weight: 100;
     }
   }

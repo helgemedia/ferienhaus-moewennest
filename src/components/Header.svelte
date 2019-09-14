@@ -53,11 +53,11 @@
 
   @media screen and (min-width: 800px) {
     h1 {
-      font-size: 112px;
+      font-size: 80px;
     }
 
     .scrolled {
-      font-size: 76px;
+      font-size: 50px;
     }
   }
 </style>

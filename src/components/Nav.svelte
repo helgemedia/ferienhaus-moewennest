@@ -17,8 +17,9 @@
 
   a {
     font-family: "Didot", serif;
-    font-size: 7vw;
+    font-size: 22px;
     font-weight: 400;
+    line-height: 26px;
     text-transform: uppercase;
     text-decoration: none;
     color: black;
@@ -34,26 +35,18 @@
   }
 
   .scrolled-link {
-    font-size: 5vw;
-    line-height: 6vw;
+    font-size: 20px;
+    line-height: 24px;
   }
 
   @media screen and (min-width: 800px) {
-    #nav {
-      margin: 0 30px 40px 30px;
-    }
-
-    .scrolled {
-      margin: 0 30px 0 30px !important;
-    }
-
     a {
-      font-size: 36px;
+      font-size: 30px;
       line-height: 40px;
     }
 
     .scrolled-link {
-      font-size: 26px;
+      font-size: 24px;
     }
   }
 </style>

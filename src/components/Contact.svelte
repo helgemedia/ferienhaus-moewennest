@@ -11,10 +11,10 @@
     margin: 10px;
 
     font-family: "Times New Roman", Times, serif;
-    font-size: 24px;
+    font-size: 20px;
     font-weight: 400;
     word-spacing: 2px;
-    line-height: 36px;
+    line-height: 30px;
   }
 
   p {
@@ -32,10 +32,10 @@
     border: solid #494949 3px;
     resize: none;
     font-family: "Times New Roman", Times, serif;
-    font-size: 24px;
+    font-size: 20px;
     font-weight: 400;
     word-spacing: 2px;
-    line-height: 36px;
+    line-height: 30px;
   }
 
   textarea {
@@ -66,10 +66,10 @@
 
   label {
     font-family: "Times New Roman", Times, serif;
-    font-size: 24px;
+    font-size: 20px;
     font-weight: 400;
     word-spacing: 2px;
-    line-height: 36px;
+    line-height: 30px;
   }
 
   @media screen and (min-width: 800px) {
