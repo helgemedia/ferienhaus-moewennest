@@ -54,18 +54,20 @@
 <div id="nav" class={scrolled ? 'scrolled' : ''}>
   <ul>
     <li>
-      <a class={scrolled ? 'scrolled-link' : ''} href="#home">Home</a>
+      <a class={scrolled ? 'scrolled-link' : ''} href="#home-anchor">Home</a>
     </li>
     <li>
-      <a class={scrolled ? 'scrolled-link' : ''} href="#amenities">
+      <a class={scrolled ? 'scrolled-link' : ''} href="#amenities-anchor">
         Ausstattung
       </a>
     </li>
     <li>
-      <a class={scrolled ? 'scrolled-link' : ''} href="#location">Lage</a>
+      <a class={scrolled ? 'scrolled-link' : ''} href="#location-anchor">
+        Lage
+      </a>
     </li>
     <li>
-      <a class={scrolled ? 'scrolled-link' : ''} href="#contact">
+      <a class={scrolled ? 'scrolled-link' : ''} href="#contact-anchor">
         Kontakt & Buchung
       </a>
     </li>

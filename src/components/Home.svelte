@@ -58,7 +58,16 @@
       font-weight: 100;
     }
   }
+
+  a.anchor {
+    display: block;
+    position: absolute;
+    top: 0;
+    visibility: hidden;
+  }
 </style>
+
+<a class="anchor" id="home-anchor" />
 
 <div id="home">
   <div class="intro-text">

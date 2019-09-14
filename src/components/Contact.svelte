@@ -87,7 +87,16 @@
       width: 50%;
     }
   }
+
+  a.anchor {
+    display: block;
+    position: relative;
+    top: -200px;
+    visibility: hidden;
+  }
 </style>
+
+<a class="anchor" id="contact-anchor" />
 
 <div id="contact">
   <div class="contact-text">

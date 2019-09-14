@@ -53,7 +53,16 @@
       width: 50%;
     }
   }
+
+  a.anchor {
+    display: block;
+    position: relative;
+    top: -200px;
+    visibility: hidden;
+  }
 </style>
+
+<a class="anchor" id="location-anchor" />
 
 <div id="location">
   <div class="location-text">
