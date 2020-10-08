@@ -67,23 +67,23 @@
 <div id="location">
   <div class="location-text">
     <p>
-      Der Strand und der Hundestrand befinden sich in etwa 900 m Entfernung  und
+      Der Strand und der Hundestrand befinden sich in etwa 900 m Entfernung und
       sind zu Fuß in etwa 10 Minuten zu erreichen. In unmittelbarer Nähe unseres
-       Ferienhauses ist ein Spielplatz, weitere große und sehr schöne
-      Spielplätze sind am Strand.  Dorum Neufeld hat außerdem für Regenwetter
-      ein Kinderspielhaus.
+      Ferienhauses ist ein Spielplatz, weitere große und sehr schöne Spielplätze
+      sind am Strand. Dorum Neufeld hat außerdem für Regenwetter ein
+      Kinderspielhaus.
     </p>
     <p>
       Das Bad „Watt’n Bad“ mit Freibad (Wellenbad alle halbe Stunde) und
-      Hallenbad ist eine  weitere Attraktion vor Ort. In etwa 25 km Entfernung
-      finden Sie Cuxhaven und Bremerhaven  mit weiteren Freizeitmöglichkeiten,
-      wobei ich Ihnen besonders den „Zoo am Meer“ in  Bremerhaven ans Herz legen
-      möchte. Hundebesitzer können den Agility Platz im Ferienpark nutzen.  Den
+      Hallenbad ist eine weitere Attraktion vor Ort. In etwa 25 km Entfernung
+      finden Sie Cuxhaven und Bremerhaven mit weiteren Freizeitmöglichkeiten,
+      wobei ich Ihnen besonders den „Zoo am Meer“ in Bremerhaven ans Herz legen
+      möchte. Hundebesitzer können den Agility Platz im Ferienpark nutzen. Den
       Schlüssel bekommen Sie im Hotel.
     </p>
     <p>
-      Einkaufsmöglichkeiten gibt es in etwa 500 m Entfernung.  Für größere
-      Einkäufe bietet sich Dorum in etwa 5 km Entfernung an.  Hier gibt es Lidl,
+      Einkaufsmöglichkeiten gibt es in etwa 500 m Entfernung. Für größere
+      Einkäufe bietet sich Dorum in etwa 5 km Entfernung an. Hier gibt es Lidl,
       Aldi, Netto und zwei Edeka Märkte.
     </p>
   </div>

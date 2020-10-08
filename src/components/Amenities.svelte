@@ -103,37 +103,37 @@
 <div id="amenities">
   <div class="amenities-text">
     <p>
-      Unser 62 qm großes Ferienhaus wurde im Juni 2018 fertiggestellt.  Es hat
-      zwei Schlafzimmer, ein Badezimmer und eine offene Wohnküche,  die mit
-      allem ausgestattet ist was einen angenehmen Urlaub gewährleistet.
+      Unser 62 qm großes Ferienhaus wurde im Juni 2018 fertiggestellt. Es hat
+      zwei Schlafzimmer, ein Badezimmer und eine offene Wohnküche, die mit allem
+      ausgestattet ist was einen angenehmen Urlaub gewährleistet.
     </p>
     <p>
       In jedem Schlafzimmer, sowie im Wohnzimmer befindet sich ein Fernseher.
-       Die Küche ist mit einem Backofen, einem Ceran-Kochfeld, einer Mikrowelle,
-       Toaster, Kaffeemaschine sowie einer Spülmaschine versehen.  In der Küche
-      ist außerdem eine Kühl- Gefrierkombination mit großem  Kühlschrank und 3
+      Die Küche ist mit einem Backofen, einem Ceran-Kochfeld, einer Mikrowelle,
+      Toaster, Kaffeemaschine sowie einer Spülmaschine versehen. In der Küche
+      ist außerdem eine Kühl- Gefrierkombination mit großem Kühlschrank und 3
       Gefrierschubladen.
     </p>
     <p>
-      Die große Dusche mit Regendusche macht das Badezimmer zu einer  Wellness
-      Oase. Für Ihre Wäsche ist eine Waschmaschine, ein Bügelbrett  und
+      Die große Dusche mit Regendusche macht das Badezimmer zu einer Wellness
+      Oase. Für Ihre Wäsche ist eine Waschmaschine, ein Bügelbrett und
       Bügeleisen vorhanden. Für Ihren Hund haben wir Hundenäpfe und ein
-       Hundekörbchen (geeignet für kleine bis mittelgroße Hunde).
+      Hundekörbchen (geeignet für kleine bis mittelgroße Hunde).
     </p>
     <p>
-        Im Wohnzimmer gibt es Bücher und Spiele für Erwachsene und Kinder sowie
-       Hörbücher. Sollte das Wetter einmal nicht so gut sein, backen oder kochen
-      sie  doch etwas Schönes mit Ihrem Schatz und Ihren Kindern.  Im
-      Abstellraum finden Sie übrigens ein Waffeleisen. Eine Waffel mit
-      Vanilleeis  und einer leckeren Tasse Tee schmeckt immer und versüßt einen
-      verregneten  Nachmittag.
+      Im Wohnzimmer gibt es Bücher und Spiele für Erwachsene und Kinder sowie
+      Hörbücher. Sollte das Wetter einmal nicht so gut sein, backen oder kochen
+      sie doch etwas Schönes mit Ihrem Schatz und Ihren Kindern. Im Abstellraum
+      finden Sie übrigens ein Waffeleisen. Eine Waffel mit Vanilleeis und einer
+      leckeren Tasse Tee schmeckt immer und versüßt einen verregneten
+      Nachmittag.
     </p>
     <p>
-        Meist ist aber Regen an der Nordsee so schnell verschwunden wie er
-      gekommen  ist. An allen Fenstern befinden sich außen elektrische Rollos
-      zur Verdunklung  der Räume. Im Außenbereich befinden sich zwei Terrassen,
-      so dass Sie die Sonne  zu jeder Tageszeit nutzen können. Ein Tisch mit 6
-      Stühlen sowie zwei Sonnenliegen  machen das Ganze komplett.
+      Meist ist aber Regen an der Nordsee so schnell verschwunden wie er
+      gekommen ist. An allen Fenstern befinden sich außen elektrische Rollos zur
+      Verdunklung der Räume. Im Außenbereich befinden sich zwei Terrassen, so
+      dass Sie die Sonne zu jeder Tageszeit nutzen können. Ein Tisch mit 6
+      Stühlen sowie zwei Sonnenliegen machen das Ganze komplett.
     </p>
   </div>
   <div class="slider-wrapper">

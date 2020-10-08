@@ -100,10 +100,8 @@
 
 <div id="contact">
   <div class="contact-text">
-    <p>Schicken sie uns gerne eine persönliche Nachricht.  </p>
-    <p>
-      Wir freuen uns auf Sie und wünschen Ihnen einen angenehmen Aufenthalt!
-    </p>
+    <p>Schicken sie uns gerne eine persönliche Nachricht.</p>
+    <p>Wir freuen uns auf Sie und wünschen Ihnen einenangenehmen Aufenthalt!</p>
   </div>
   <div class="contact-form">
     <form name="contact" method="POST">
