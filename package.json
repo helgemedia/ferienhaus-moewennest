@@ -21,7 +21,7 @@
     "rollup-plugin-svelte": "5.1.0",
     "rollup-plugin-terser": "^7.0.2",
     "svelte": "3.12.1",
-    "ws": "7.1.2"
+    "ws": "7.4.6"
   },
   "dependencies": {
     "@beyonk/svelte-googlemaps": "2.1.2",
